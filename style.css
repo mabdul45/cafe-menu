@@ -61,6 +61,8 @@ main header p {
   align-items: center;
   justify-content: space-between;
   width: 450px;
+  min-width: 250px;
+  max-width: 550px;
 }
 
 .flavor,
