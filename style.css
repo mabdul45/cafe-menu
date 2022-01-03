@@ -60,9 +60,8 @@ main header p {
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  width: 450px;
-  min-width: 250px;
-  max-width: 550px;
+min-width: 200px;
+width: 80%;
 }
 
 .flavor,
